@@ -1980,7 +1980,7 @@ float: center;
     width: 33.33333333%;
   }
   .col-md-3 {
-    width: 100%;
+    width: 75%;
   }
   .col-md-2 {
     width: 16.66666667%;
@@ -3046,6 +3046,7 @@ select[multiple].form-group-lg .form-control {
 }
 .btn:active,
 .btn.active {
+	
   background-image: none;
   outline: 0;
   -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
