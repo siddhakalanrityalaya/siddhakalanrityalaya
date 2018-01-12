@@ -548,7 +548,7 @@ ol.type li a:hover {
 	font-weight: bold;
 	color: #fff;
 	margin-right: auto;
-	margin-left: auto;
+	margin-left: -3em;
 	margin-top: auto;
 	text-align: left;
 	font-size: 25px;
